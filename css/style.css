@@ -1,0 +1,46 @@
+h1 span{
+    display: block;
+}
+
+.is-list-disc{
+    list-style: disc;
+    padding-left: 20px
+}
+
+.is-max-width{
+    max-width: 950px;
+    margin: auto;
+}
+
+figure{
+    margin: auto;
+}
+@media screen and (max-width:769px){
+    .is-flex-has-text-weight-semibold{
+        justify-content: center;
+    }
+}
+
+h3 {
+    font-size: 5;
+}
+
+body {
+    background-color: rgba(44, 238, 228, 0.432);
+    height: 150vh;
+}
+main h1 {
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    border-bottom-right-radius: 10px;
+}
+main h1 {
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.with-bg{
+    background-image: url('../img/opp.jpg');
+    
+}
